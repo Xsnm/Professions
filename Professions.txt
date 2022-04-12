@@ -1,14 +1,20 @@
 # 2021-01-13
+13	Vorturner/Übungsleiter Turnen
+18:	Hifarbeiter: Sortierer
+12	MikroProzessorTechnik (ZVEI)
 1	Maschinenschlosser
+16	Hilfsarbeiter: Brandschutz
+17	Hilfsarbeiter: MotorenInstandsetzung
+18	Hilfsarbeiter: MaschinenNeubau
+15	Zivi: like (HEP-Hilf)
 2	Honer, CNC-Fräser
-3	SW-Ingenieur
-4	PPL-D / CPL; BZF I+II
 5	LKW-Führerschein (2, nun D?)
+4	PPL-D / CPL; BZF I+II
+10	Ballonmeister
+14	Kartograph
+3	SW-Ingenieur
 6	Klettern
 7	Imker
 8	Leichtmatrose (STCW)
 9	Bootsführerscheine: SBF(IW/CW), SKS + Funk (LRC)
-10	Ballonmeister
-12	MikroProzessorTechnik (ZVEI)
-13	Vorturner/Übungsleiter Turnen
-14	Kartograph
+
