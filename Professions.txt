@@ -1,0 +1,14 @@
+# 2021-01-13
+1	Maschinenschlosser
+2	Honer, CNC-Fräser
+3	SW-Ingenieur
+4	PPL-D / CPL; BZF I+II
+5	LKW-Führerschein (2, nun D?)
+6	Klettern
+7	Imker
+8	Leichtmatrose (STCW)
+9	Bootsführerscheine: SBF(IW/CW), SKS + Funk (LRC)
+10	Ballonmeister
+12	MikroProzessorTechnik (ZVEI)
+13	Vorturner/Übungsleiter Turnen
+14	Kartograph
