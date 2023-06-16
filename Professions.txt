@@ -3,7 +3,7 @@
 13	Vorturner/Übungsleiter Turnen
 18:	Hilfsarbeiter: Sortierer
 12	MikroProzessorTechnik (ZVEI)
-1	Maschinenschlosser
+1	Maschinenschlosser (Mash.-rep/Masch.-Neubau/Gießerei)
 16	Hilfsarbeiter: Brandschutz
 17	Hilfsarbeiter: MotorenInstandsetzung
 18	Hilfsarbeiter: MaschinenNeubau
