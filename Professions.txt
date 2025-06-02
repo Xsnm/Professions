@@ -1,21 +1,42 @@
 # 2021-01-13
 # 2023-06-17
-13	Vorturner/Übungsleiter Turnen
-18:	Hilfsarbeiter: Sortierer
-12	MikroProzessorTechnik (ZVEI)
-1	Maschinenschlosser (Mash.-rep/Masch.-Neubau/Gießerei)
-16	Hilfsarbeiter: Brandschutz
-17	Hilfsarbeiter: MotorenInstandsetzung
-18	Hilfsarbeiter: MaschinenNeubau
-15	Zivi: like (HEP-Hilf)
-2	Honer, CNC-Fräser
-5	LKW-Führerschein (2, nun D?)
-4	PPL-D / CPL; BZF I+II
-10	Ballonmeister
-14	Kartograph / GeoInformatiker
-3	SW-Ingenieur
-6	Klettern: TR, VS, (VdHadF), Alpin I, II
-7	Imker
-8	Leichtmatrose (STCW)
-9	Bootsführerscheine: SBF(IW/CW), SKS + Funk (LRC/UBI) + FKN
+# 2025-06-02 ; mn@PaddyL:~/GIT/GIT_HUB/Professions (master)$ perl -p -i -e "s/^([^#])/\t\1/g;" Professions.txt
 
+## Historical ordering.
+
+#a						Everything where money is paid for. Except HIWI.
+#	b					Everything with evidence.
+#		c				Everything with a different doing fora longer perior or a training.
+#			d			Everything I made, regardless what
+#				orig	Origin numbering.
+#a	b	c	d	orig	what
+#----------------------------				
+				19	Hilfsarbeiter: Sortierer (Fessner)
+	01	01	01	13	Vorturner/Übungsleiter Turnen
+			02	16	Hilfsarbeiter: Brandschutz
+	02	02	03	12	MikroProzessorTechnik (ZVEI)
+01	03	03	04	1	Maschinenschlosser: Mash.-rep (KS)
+			05	1.2	Maschinenschlosser: Masch.-Neubau (KS) - Maschinenbauer
+			06	1.3	Maschinenschlosser: Gießerei (KS) - Gießereimechaniker
+02		04	07	17	Hilfsarbeiter: MotorenInstandsetzung
+				18	Hilfsarbeiter: MaschinenNeubau (?)
+03	04	05	08	15	Zivi: like (HEP-Hilf)
+04	05	06	09	2	Honer (FIBRO)
+	06	07	10	2.2	CNC-Fräser (FIBRO)
+05			11	2.3	CNC-Dreher (Winkler)
+06	07	08	12	3	SW-Ingenieur (CLIP, WIBU, Alpine/Thalse, EB)
+07	08	09	13	4	PPL-D / CPL; BZF I+II
+	09	10	14	10	Ballonmeister
+	10	11	15	5	LKW-Führerschein (2, nun D?)
+	11	12	16	14	Kartograph / GeoInformatiker
+08		13	17		Projektleiter
+	12	14	18	6	Klettern: TR, VS, (VdHadF), Alpin I, II
+	13	15	19	7	Imker (2015)
+09	14	16	20	8	Leichtmatrose (STCW) auf Alexander von Humboldt II;
+			21		 ... mit STCW Überlebenauf See und Brandbekämpfung.
+	15	17	22	9	Bootsführerscheine: SBF(IW/CW), Funk (LRC/SRC/UBI) + FKN
+	16	18	23		SKS
+	17	19	24		SSS (ongoing)
+	
+# EOF
+				
