@@ -24,7 +24,7 @@
 04	05	06	09	2	Honer (FIBRO)
 	06	07	10	2.2	CNC-Fräser (FIBRO)
 05			11	2.3	CNC-Dreher (Winkler)
-06	07	08	12	3	SW-Ingenieur (CLIP, WIBU, Alpine/Thalse, EB)
+06	07	08	12	3	SW-Ingenieur (CLIP, WIBU, Alpine/Thales, EB)
 07	08	09	13	4	PPL-D / CPL; BZF I+II
 	09	10	14	10	Ballonmeister
 	10	11	15	5	LKW-Führerschein (2, nun D?)
