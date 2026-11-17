@@ -1,6 +1,7 @@
 # 2021-01-13
 # 2023-06-17
 # 2025-06-02 ; mn@PaddyL:~/GIT/GIT_HUB/Professions (master)$ perl -p -i -e "s/^([^#])/\t\1/g;" Professions.txt
+# 2026-11-17 added SSS.
 
 ## Historical ordering.
 
@@ -37,8 +38,8 @@
 09	14	16	20	8	Leichtmatrose (STCW) auf Alexander von Humboldt II;				.	Ordinary Seaman (STCW), Alexander von Humboldt II TallShip
 			21		 ... mit STCW Überleben auf See und Brandbekämpfung.			.	... with STCW Training Survival at Sea and Firefighting
 	15	17	22	9	Bootsführerscheine: SBF(IW/CW), Funk (LRC/SRC/UBI) + FKN		.	Pleasure Boat Licenses: IW/CW, LRC/SRC/UBI) + FKN
-	16	18	23		SKS																.	SKS
-	17	19	24		SSS (ongoing)													.	SSS (ongoing)
+	16	18	23		SKS; (2019-04-18)												.	SKS
+	17	19	24		SSS; P2024-04-12, T2025-06-21~2026-10-24 (2026-11-12)			.	SSS (ongoing)
 
 # EOF
 				
